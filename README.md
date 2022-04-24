@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @langeani
-- 👀 I’m a endurance sports coach trying to learn how to code to be able to make a carrer shift.
+- 👀 I’m a endurance sports coach learning how to code to make a carrer shift. I share my journey on https://langeani.com 
 - 🌱 I’m currently learning python
 - 💞️ I'm looking to colaborate on data analysis problems and blockchains. With a great experience as sports coach and physiologist I can contribute on data analisys for health, fitness and human performance.
 - 📫 Need help Reach me rodrigo.langeani@gmail.com or on @langeani on twitter.
